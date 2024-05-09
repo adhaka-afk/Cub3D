@@ -54,7 +54,7 @@ This two-person project was done with [Sal-zuba](https://github.com/Sal-zuba).
 . Saadoun took care of the Raycasting and texture management part.
 ## 🚀 Next Project
 
-[ft_irc](https://github.com/adhaka-afk/CPP04)
+[ft_irc](https://github.com/adhaka-afk/ft_irc)
 
 ## ⏳ Previous Project
 
